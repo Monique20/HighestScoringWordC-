@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestScoringWord", "HighestScoringWord\HighestScoringWord.csproj", "{B16739C1-B5BC-44B2-938E-A16C9C7BF76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighestScoringWordTests", "HighestScoringWordTests\HighestScoringWordTests.csproj", "{FFDE1464-7D56-436C-B95F-8BAC614DDB5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16739C1-B5BC-44B2-938E-A16C9C7BF76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16739C1-B5BC-44B2-938E-A16C9C7BF76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16739C1-B5BC-44B2-938E-A16C9C7BF76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16739C1-B5BC-44B2-938E-A16C9C7BF76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDE1464-7D56-436C-B95F-8BAC614DDB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDE1464-7D56-436C-B95F-8BAC614DDB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDE1464-7D56-436C-B95F-8BAC614DDB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDE1464-7D56-436C-B95F-8BAC614DDB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {305B10E6-3815-4765-98AA-FDA490F92E1C}
+	EndGlobalSection
+EndGlobal
